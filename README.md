@@ -2,7 +2,7 @@
 
 Operations and customer leadership, now spent building the systems instead of only running them.
 
-Years running operations and customer functions at scale, most of them at Apple and Nike, on top of a computer engineering degree and an MBA. What I do today sits at the intersection: design the process, build the automation that runs it, then build the checks that keep it honest.
+Years running operations and customer functions at scale in global consumer retail, on top of a computer engineering degree and an MBA. What I do today sits at the intersection: design the process, build the automation that runs it, then build the checks that keep it honest.
 
 **What I am working on**
 
@@ -18,12 +18,12 @@ The interesting failure of autonomous agents is not that they crash. It is that 
 
 Head of Customer Success at an industrial software company: team from 3 to 25 across three continents, backlog down 95%, US pipeline up 40%, Dynamics 365 and Copilot rolled out as the system of record.
 
-Store Director at Nike: full P&L ownership, team from 25 to 60, margin up 25%.
+Store Director in global sportswear retail: full P&L ownership, team from 25 to 60, margin up 25%.
 
-Six years at Apple across operations, customer experience and talent, inside a 200-person organisation.
+Six years in consumer technology retail across operations, customer experience and talent, inside a 200 person organisation.
 
-Computer engineering, MBA from Universidad de Navarra. Spanish native, English bilingual. Based in Málaga.
+Computer engineering, MBA from Universidad de Navarra. American, native English and native Spanish. Based in Málaga.
 
 **Elsewhere**
 
-[kemdrix-studio.io](https://kemdrix-studio.io) · [linkedin.com/in/kemdrixberkeley](https://www.linkedin.com/in/kemdrixberkeley)
+[kemdrix-studio.io](https://kemdrix-studio.io) · [linkedin.com/in/kemdrixberkeley](https://www.linkedin.com/in/kemdrixberkeley) · [CV](https://github.com/kemdrixberkeley/kemdrixberkeley/blob/main/Kemdrix_Berkeley_CV_2026.pdf)
